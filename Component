@@ -1,0 +1,4 @@
+We are using hobby dc motor in our project because it is designed to work 
+with between 4.5V and 9V DC 
+and will start spinning at voltages a slow as 2.0V.
+This motor's operating temperature range from -10c to 60c.
